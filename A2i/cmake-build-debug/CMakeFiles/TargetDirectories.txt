@@ -1,0 +1,3 @@
+C:/Users/dip00/CLionProjects/Set_3_A2/A2i/cmake-build-debug/CMakeFiles/A2i.dir
+C:/Users/dip00/CLionProjects/Set_3_A2/A2i/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dip00/CLionProjects/Set_3_A2/A2i/cmake-build-debug/CMakeFiles/rebuild_cache.dir
