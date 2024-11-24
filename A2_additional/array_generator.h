@@ -30,7 +30,7 @@ public:
     }
 
 
-    static std::vector<int> generateNearlySortedArray(int size, int swapCount = 10) {
+    static std::vector<int> generateNearlySortedArray(int size, int swapCount = 100) {
         std::vector<int> arr(size);
         for (int i = 0; i < size; ++i) {
             arr[i] = i + 1;
