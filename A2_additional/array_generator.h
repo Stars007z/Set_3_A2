@@ -50,7 +50,7 @@ public:
 
     static std::vector<std::vector<int>> generateSubarrays(const std::vector<int> &fullArray) {
         std::vector<std::vector<int>> subarrays;
-        const int maxSize = 10000;
+        const int maxSize = fullArray.size();
         const int step = 100;
 
         for (int size = 500; size <= maxSize; size += step) {
